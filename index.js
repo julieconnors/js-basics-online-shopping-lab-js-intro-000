@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- item = {itemName: itemPrice};
+ item = {itemName: itemName};
  cart.push(itemName, itemPrice);
 }
 
